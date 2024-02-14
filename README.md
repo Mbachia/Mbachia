@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**Mbachia/Mbachia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about leveraging data to derive actionable insights and build predictive models that drive business decisions.
+I'm constantly learning and exploring new technologies and techniques in the field of data science and machine learning.
+Feel free to explore my repositories and reach out to me for collaborations or discussions on interesting projects!
 
-Here are some ideas to get you started:
+Happy coding! 🚀✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+Programming Languages:
+Python
+
+Data Analysis and Manipulation:
+Pandas, Numpy, Seaborn
+
+Database Management
+PostgreSQL
+
+Machine Learning:
+Sci-kit Learn,  Tensorflow
+
+Lets connect:
+email - espymbachia13@gmail.com
